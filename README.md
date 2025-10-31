@@ -1,8 +1,11 @@
 # RC Plane Xbox Controller 
 
 This project is made to provide simple and begginer friendly controls for RC planes, using HC-12 transceivers and only an XBox controller!
+
 For now you can control direction and throttle, which will sufice to test airframes, but I plan to add more functionality, coming soon...
+
 I assume you have at least some experience with Arduinos and circuits, but even then, don't worry, this is a simple set-up.
+
 With the following requirements, using this code you can make a simple RC Plane, you just need, well, the plane.
 
 ## Requirements
